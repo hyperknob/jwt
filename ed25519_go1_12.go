@@ -3,7 +3,7 @@
 package jwt
 
 import (
-	"github.com/gbrlsnchs/jwt/v3/internal"
+	"github.com/hyperknob/jwt/v3/internal"
 	"golang.org/x/crypto/ed25519"
 )
 

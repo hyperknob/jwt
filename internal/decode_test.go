@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"testing"
 
-	"github.com/gbrlsnchs/jwt/v3/internal"
+	"github.com/hyperknob/jwt/v3/internal"
 	"github.com/google/go-cmp/cmp"
 )
 

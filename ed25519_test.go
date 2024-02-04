@@ -3,8 +3,8 @@ package jwt_test
 import (
 	"testing"
 
-	"github.com/gbrlsnchs/jwt/v3"
-	"github.com/gbrlsnchs/jwt/v3/internal"
+	"github.com/hyperknob/jwt/v3"
+	"github.com/hyperknob/jwt/v3/internal"
 	"github.com/google/go-cmp/cmp"
 )
 

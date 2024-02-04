@@ -1,4 +1,4 @@
-module github.com/gbrlsnchs/jwt/v3
+module github.com/hyperknob/jwt/v3
 
 go 1.10
 

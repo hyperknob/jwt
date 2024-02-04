@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 
-	"github.com/gbrlsnchs/jwt/v3/internal"
+	"github.com/hyperknob/jwt/v3/internal"
 )
 
 // SignOption is a functional option for signing.

@@ -3,7 +3,7 @@ package jwt
 import (
 	"bytes"
 
-	"github.com/gbrlsnchs/jwt/v3/internal"
+	"github.com/hyperknob/jwt/v3/internal"
 )
 
 // ErrAlgValidation indicates an incoming JWT's "alg" field mismatches the Validator's.

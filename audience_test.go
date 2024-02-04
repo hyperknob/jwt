@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/gbrlsnchs/jwt/v3"
+	"github.com/hyperknob/jwt/v3"
 	"github.com/google/go-cmp/cmp"
 )
 

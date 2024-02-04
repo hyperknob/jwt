@@ -5,7 +5,7 @@ import (
 	"crypto/rand"
 	"crypto/rsa"
 
-	"github.com/gbrlsnchs/jwt/v3/internal"
+	"github.com/hyperknob/jwt/v3/internal"
 )
 
 var (

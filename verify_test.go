@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gbrlsnchs/jwt/v3"
-	"github.com/gbrlsnchs/jwt/v3/internal"
+	"github.com/hyperknob/jwt/v3"
+	"github.com/hyperknob/jwt/v3/internal"
 	"github.com/google/go-cmp/cmp"
 )
 
@@ -33,7 +33,7 @@ var (
 	now = time.Now()
 	tp  = testPayload{
 		Payload: jwt.Payload{
-			Issuer:         "gbrlsnchs",
+			Issuer:         "hyperknob",
 			Subject:        "someone",
 			Audience:       jwt.Audience{"https://golang.org", "https://jwt.io"},
 			ExpirationTime: jwt.NumericDate(now.Add(24 * 30 * 12 * time.Hour)),

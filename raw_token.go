@@ -3,7 +3,7 @@ package jwt
 import (
 	"encoding/json"
 
-	"github.com/gbrlsnchs/jwt/v3/internal"
+	"github.com/hyperknob/jwt/v3/internal"
 )
 
 // ErrMalformed indicates a token doesn't have a valid format, as per the RFC 7519.
